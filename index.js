@@ -1,1 +1,2 @@
-console.log ("can you hear me?")
+console.log ("hello")
+console.log ("are you sus?")
